@@ -1,0 +1,21 @@
+{
+    "name":"STUCOR",
+    "short_name":"STUCOR",
+    "start_url":"/",
+    "background_color":"#ffff",
+    "theme_color":"#d8ecf1",
+    "display":"standalone",
+    "icons":[
+        {
+          "src":"assets/img/64.png",
+          "sizes":"64x64",
+          "type":"image/png"
+        },
+        {
+            "src":"assets/img/512.png",
+            "sizes":"512x512",
+            "type":"image/png"
+        }
+
+    ]
+}
